@@ -1,2 +1,3 @@
-# election-web-system-
-high school project for election 
+# election-web-system
+Hanif Anggara 
+
